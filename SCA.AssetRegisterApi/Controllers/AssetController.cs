@@ -1,4 +1,5 @@
-﻿using SCA.AssetRegisterApi.DTOs;
+﻿using Microsoft.AspNetCore.Mvc;
+using SCA.AssetRegisterApi.DTOs;
 using SCA.AssetRegisterApi.Services.Contracts;
 
 namespace SCA.AssetRegisterApi.Controllers
